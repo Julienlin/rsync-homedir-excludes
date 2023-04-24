@@ -18,11 +18,11 @@
 #.android
 #.AndroidStudio*/
 #Android/Sdk
-#.gradle
+.gradle
 #.gvm
 #.grails/
 #.grails_history
-#.kde/share/apps/nepomuk
+.kde/share/apps/nepomuk
 #.local/share/notbit
 #.local/libvirt
 #.local/share/libvirt
@@ -431,3 +431,30 @@ go/pkg/mod/cache
 
 # SC-Controller - socket file
 .config/scc/daemon.socket
+
+# discord
+.config/discord
+
+.kde
+.keras
+.local
+.pyenv
+.config/Code
+.fastd
+.n
+.mozilla
+.kube
+.dropbox
+.theme
+.zsh_history
+.oh-my-zsh
+.mujoco
+.conda
+.dotnet
+.yarn
+.wine
+Dropbox
+.wine32
+.sdkman
+
+.tfenv

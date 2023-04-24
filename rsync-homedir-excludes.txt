@@ -381,6 +381,7 @@ nohup.out
 
 # VS Codium
 .config/VSCodium/CachedExtensionVSIXs
+.config/VSCodium/User/workspaceStorage
 
 # VirtualBox
 .config/VirtualBox/VBoxSVC.log*
@@ -476,3 +477,4 @@ Dropbox
 
 .thunderbird/y2xyy1s4.default-release/minidumps/
 .thunderbird/y2xyy1s4.default-release/Mail
+

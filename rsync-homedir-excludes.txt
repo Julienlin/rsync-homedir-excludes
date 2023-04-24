@@ -376,6 +376,8 @@ nohup.out
 .config/Code - OSS/logs/
 .config/Code/logs/
 .config/Code/CachedData/*
+.vscode
+.vscode-oss
 
 # VS Codium
 .config/VSCodium/CachedExtensionVSIXs
@@ -437,7 +439,7 @@ go/pkg/mod/cache
 
 .kde
 .keras
-.local
+# .local
 .pyenv
 .config/Code
 .fastd
@@ -458,3 +460,19 @@ Dropbox
 .sdkman
 
 .tfenv
+
+# Vue
+.vue-cli-ui
+
+# visualvm
+.visualvm
+
+.var
+
+
+.local/share/JetBrains
+.local/share/virtualenvs
+.local/share/virtualenv
+
+.thunderbird/y2xyy1s4.default-release/minidumps/
+.thunderbird/y2xyy1s4.default-release/Mail
